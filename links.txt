@@ -1,0 +1,5 @@
+React page:
+https://facebook.github.io/react/
+
+Re-introduction to JS:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
